@@ -93,8 +93,8 @@ html {
   display: flex;
   justify-content: center;
   align-items: center;
-  width: 100%; /* Ensures the container spans the full width */
-  height: 100vh; /* Adjust height as needed */
+  width: 80%; /* Ensures the container spans the full width */
+  height: 80vh; /* Adjust height as needed */
   overflow: hidden; /* Ensures overflow text is not visible */
 }
 
@@ -108,7 +108,7 @@ html {
   margin: 0 auto; /* Center the text */
   text-align: center; /* Center text alignment */
   position: relative;
-  width: 100%; /* Ensures the text container spans the full width */
+  width: 80%; /* Ensures the text container spans the full width */
 }
 
 #invitation-text::before {
